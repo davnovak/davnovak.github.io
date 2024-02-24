@@ -9,5 +9,6 @@ I am currently working on my PhD, having secured an FWO Strategic Basic research
 My interests are machine learning and (including) deep learning applied in biomedical contexts.
 My favourite biological data are high-dimensional single-cell datasets.
 
+Check out my full [CV](cv.pdf) for more about my work experience and education.
 See my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
 
