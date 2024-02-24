@@ -23,6 +23,8 @@ For my master thesis, I implemented parts of the TDA pipeline in C++ and created
 
 ### [**ViScore**](https://github.com/saeyslab/ViScore)
 
+### [**GroupEnc**](https://github.com/saeyslab/GroupEnc)
+
 ### [**hloss**](https://github.com/davnovak/hloss)
 
 ### [**npefaster**](https://github.com/davnovak/npefaster)
