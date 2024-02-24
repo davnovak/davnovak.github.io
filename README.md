@@ -19,9 +19,9 @@ Some of my publicly available project repositories, including collaborations, ar
 *tviblindi* is a semi-supervised trajectory inference tool for single-cell data that uses topological data analysis (TDA) and persistent homology to be able to work will the full, high-dimensional data, mitigating loss of information due to dimensionality reduction.
 For my master thesis, I implemented parts of the TDA pipeline in C++ and created a method for clustering trajectories based on persistent homology, as well a GUI for semi-supervised analyses using that clustering, in R & Shiny.
 
-### [**tviblindi**](https://github.com/saeyslab/ViVAE)
+### [**ViVAE**](https://github.com/saeyslab/ViVAE)
 
-### [**tviblindi**](https://github.com/saeyslab/ViScore)
+### [**ViScore**](https://github.com/saeyslab/ViScore)
 
 ### [**hloss**](https://github.com/davnovak/hloss)
 
