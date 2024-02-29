@@ -72,7 +72,7 @@ It combines two pipelines: one based on FlowSOM clustering and one based on extr
 *hidden* is a neat hidden Markov model simulator in R.
 Why not.
 
-### [**command_line_parses**](https://github.com/katebrich/command_line_parser)
+### [**CommandLineParser**](https://github.com/katebrich/command_line_parser)
 
 *CommandLineParser* is a C#/.NET API I co-wrote with [Kačka Břicháčková](https://github.com/katebrich).
 
