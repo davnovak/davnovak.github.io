@@ -70,7 +70,7 @@ It combines two pipelines: one based on FlowSOM clustering and one based on extr
 ### [**hidden**](https://github.com/davnovak/hidden)
 
 *hidden* is a neat hidden Markov model simulator in R.
-Because why not.
+Why not.
 
 ### [**command_line_parses**](https://github.com/katebrich/command_line_parser)
 
