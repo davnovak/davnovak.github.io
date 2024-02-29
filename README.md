@@ -19,6 +19,9 @@ For my master thesis, I implemented parts of the TDA pipeline in C++ and created
 
 ### [**ViVAE**](https://github.com/saeyslab/ViVAE)
 
+*ViVAE* is a dimensionality reduction algorithm implemented in Python, aimed at creating useful embeddings of cytometry and scRNA-seq data.
+Using variational autoencoders and a stochastic multi-dimensional scaling (MDS) loss (adapted version of idea from [SQuadMDS](https://github.com/PierreLambert3/SQuaD-MDS-and-FItSNE-hybrid)), we achieve a better balance of local and global structure preservation.
+
 ### [**ViScore**](https://github.com/saeyslab/ViScore)
 
 ### [**GroupEnc**](https://github.com/saeyslab/GroupEnc)
