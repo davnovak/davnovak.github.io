@@ -80,3 +80,8 @@ Why not.
 
 *avl_tree* is an Adelson-Velsky and Landis tree implementation in Pascal.
 
+### [**RCondaRun**](https://github.com/davnovak/RCondaRun)
+
+*RCondaRun* is a tiny package for switching between Conda environments within a single R session when interfacing with Python.
+
+
