@@ -1,13 +1,14 @@
 
 ```davidnovak9000 at gmail dot com```
 
+### [Full CV](cv.pdf)
+
 I am a bioinformatician and PhD researcher at [Saeys lab](https://saeyslab.sites.vib.be/en), [Center for Inflammation Research](https://www.irc.ugent.be) of the Flemish Institute of Biotechnology and Ghent University in Ghent, Belgium.
 I am currently working on my PhD, having secured an [FWO Strategic Basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) fellowship.
 
 My interests include machine learning and (including) deep learning applied in biomedical contexts.
 My favourite biological data is single-cell.
 
-Check out my full [CV](cv.pdf) for more about my work experience and education.
 See my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
 
 Some of my publicly available project repositories, including collaborations, are listed below.
