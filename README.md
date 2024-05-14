@@ -47,6 +47,12 @@ I introduce a novel scoring approach, which incorporates the biological prior to
 
 *npefaster* is an optimised and extended version of the [Neighbouhood Proportion Error](https://github.com/akonstodata/NPE).
 
+### [**SplitScore**](https://github.com/davnovak/SplitScore)
+
+Work in progress on alternatives to hierarchical metaclustering done by FlowSOM.
+Clusters are merged so as to preserve a cohesion in terms of signal distribution per channel.
+In practice, this can be done through preserving unimodality of marker expression (for cytometry data).
+
 ### [**SingleBench**](https://github.com/davnovak/SingleBench)
 
 *SingleBench* is a benchmarking framework for high-dimensional data transformations and clustering in R.
