@@ -9,6 +9,8 @@ I am currently working on my PhD, having secured an [FWO Strategic Basic researc
 My interests include machine learning and (including) deep learning applied in biomedical contexts.
 My favourite biological data is single-cell.
 
+#### I am open to part-time remote work in Q4 of 2024 and to full-time in Q1 2025 (after finishing my PhD, open to relocation).
+
 See my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
 
 Some of my publicly available project repositories, including collaborations, are listed below.
