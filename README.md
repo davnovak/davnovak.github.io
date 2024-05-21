@@ -93,4 +93,11 @@ Why not.
 
 *RCondaRun* is a tiny package for switching between Conda environments within a single R session when interfacing with Python.
 
+<hr>
+
+Interested in collaboration?
+Don't hesitate to contact me!
+
+![portrait](./portrait.png)
+
 
