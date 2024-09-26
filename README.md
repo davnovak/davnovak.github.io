@@ -1,7 +1,7 @@
 
 ```davidnovak9000 at gmail dot com```
 
-### [View my full CV here.](cv.pdf)
+### [Read my full CV here.](cv.pdf)
 
 I am a bioinformatician and PhD researcher at [Saeys lab](https://saeyslab.sites.vib.be/en), [Center for Inflammation Research](https://www.irc.ugent.be) of the Flemish Institute of Biotechnology and Ghent University in Ghent, Belgium.
 My PhD project is funded through an [FWO Strategic Basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) fellowship.
@@ -115,4 +115,4 @@ It's some of my earliest code, written during my Bachelor's in Biology during wh
 Interested in my work or collaborating?
 Feel free to reach out.
 
-![portrait](./portrait.png | width=150)
+![portrait](./portrait.png)
