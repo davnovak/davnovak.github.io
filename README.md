@@ -21,7 +21,7 @@ Some of my public project repositories, including collaborations, are listed bel
 *ViVAE* is an embedding framework that demonstrably improves structure preservation, interpretability and QC in scRNA-seq dimensionality reduction.
 Using VAEs, a novel stochastic-MDS loss (based on [SQuadMDS](https://github.com/PierreLambert3/SQuaD-MDS-and-FItSNE-hybrid)) and data de-noising, we achieve a better balance of local and global structure preservation with scRNA-seq data.
 Additionally, the model is equipped with a novel and generalisable algorithm for detecting latent space distortions (encoder indicatrices) and integrates with [FlowSOM](https://github.com/saeyslab/FlowSOM_Python).
-I am the first author of a manuscript we are now revising with my co-authors from Ghent University and UCLouvain (read first version of the [pre-print](https://www.biorxiv.org/content/10.1101/2023.11.23.568428v2) here).
+I am the first author the associated manuscript, penned with my co-authors from Ghent University and UCLouvain (read current [pre-print](https://www.biorxiv.org/content/10.1101/2023.11.23.568428v3) here).
 The work was presented at CYTO 2024.
 
 ### [**GroupEnc**](https://github.com/saeyslab/GroupEnc)
@@ -67,9 +67,9 @@ This is an ongoing effort, since the requirement of preserving some distribution
 ### [**ViScore**](https://github.com/saeyslab/ViScore)
 
 *ViScore* is a collection of evaluation metrics for dimensionality reduction that address past problems with fairness and scalability.
-Together with collaborators from UCLouvain, we have released a battery of both unsupervised and supervised evaluation algorithm.
+Together with collaborators from UCLouvain, we have released a battery of both unsupervised and supervised evaluation algorithms and an extensible HPC benchmarking framework.
 We build on the RNX curves and the [Neighbouhood Proportion Error](https://github.com/akonstodata/NPE) to provide novel embedding-level and population-level scores.
-This is described in our *ViVAE* [pre-print](https://www.biorxiv.org/content/10.1101/2023.11.23.568428v2).
+This is described in our *ViVAE* [pre-print](https://www.biorxiv.org/content/10.1101/2023.11.23.568428v3).
 
 ### [**SingleBench**](https://github.com/davnovak/SingleBench)
 
