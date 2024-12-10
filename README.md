@@ -8,7 +8,7 @@ My PhD project is funded through an [FWO Strategic Basic research](https://www.f
 
 I make robust and interpretable machine learning and statistical models for single-cell data analysis.
 
-#### **I am open to work from Q1 of 2025 and open to relocation.**
+#### **I am open to work from Q2 of 2025 and open to relocation.**
 
 See my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
 
