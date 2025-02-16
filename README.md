@@ -6,11 +6,12 @@
 I am a bioinformatician and PhD researcher at [Saeys lab](https://saeyslab.sites.vib.be/en), [Center for Inflammation Research](https://www.irc.ugent.be) of the Flemish Institute of Biotechnology and Ghent University in Ghent, Belgium, working on an [FWO Strategic Basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) project.
 Before that, I worked at [Childhood Leukaemia Investigation Prague (CLIP)](https://clip.lf2.cuni.cz/en) in Czechia.
 
-I make robust and interpretable machine learning and statistical models for single-cell data analysis.
+I make interpretable machine learning and statistical models for single-cell data analysis.
+I'm especially interested in exploratory modelling in biology, due to its growing importance in biological discovery.
 
-#### **I am open to work (and relocation) from Q2 of 2025.**
+#### **I am open to new work and relocation from Q2 of 2025.**
 
-See my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
+Check my [Google Scholar](https://scholar.google.com/citations?user=FU7FJPcAAAAJ&hl=en) profile for publication activity.
 
 Some of my public project repositories, including collaborations, are listed below.
 
@@ -30,8 +31,8 @@ The work was presented at CYTO 2024.
 
 ## Differential expression testing
 
-### **Large-scale cytometry differential testing pipeline for large cohorts**
-*A public repository with a novel pipeline for robust differential expression modelling in large flow cytometry data cohorts will soon be added.*
+### **_iidx:_ Interpretable and interactive differential expression in cytometry**
+*A public repository with a novel end-to-end pipeline for robust differential expression modelling in large flow cytometry data cohorts will soon be added.*
 
 ### [**tidycell**](https://github.com/davnovak/tidycell)
 
