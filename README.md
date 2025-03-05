@@ -37,7 +37,7 @@ We're releasing this soon.
 I list some of my projects, including collaborations, below, sorted by category.
 
 <details>
-<summary>**Dimension reduction and structure learning**</summary>
+<summary><b>Dimension reduction and structure learning</b></summary>
 <br>
 
 #### [**ViVAE**](https://github.com/saeyslab/ViVAE)
@@ -58,7 +58,7 @@ Check out the conference paper [here](https://bnaic2023.tudelft.nl/static/media/
 </details>
 
 <details>
-<summary>**Topological trajectory inference**</summary>
+<summary><b>Topological trajectory inference</b></summary>
 <br>
 
 #### [**tviblindi**](https://github.com/stuchly/tviblindi)
@@ -71,7 +71,7 @@ The tool has since been applied successfully to create multi-organ models of dev
 </details>
 
 <details>
-<summary>**Differential expression analysis**</summary>
+<summary><b>Differential expression analysis</b></summary>
 <br>
 
 #### **_iidx:_ Interpretable and interactive differential expression in cytometry**
@@ -91,7 +91,7 @@ It has been applied on GvHD data and in a project on head & neck cancers at [Bio
 </details>
 
 <details>
-<summary>**Accelerating discovery in cytometry data**</summary>
+<summary><b>Accelerating discovery in cytometry data</b></summary>
 
 ### [**SingleBench**](https://github.com/saeyslab/SingleBench)
 
@@ -104,7 +104,7 @@ Associated manuscript will be available soon.
 </details>
 
 <details>
-<summary>**Semi-automated single-cell data annotation**</summary>
+<summary><b>Semi-automated single-cell data annotation</b></summary>
 
 #### [**hloss**](https://github.com/davnovak/hloss)
 
@@ -151,6 +151,7 @@ I developed this small tool during a summer internship at Saeys Lab to help with
 
 *auto_compensate* is an automated pipeline for large-scale **cytometry data compensation** I designed for [CLIP](https://clip.lf2.cuni.cz/cs).
 
+<hr>
 </details>
 
 <details>
