@@ -99,7 +99,7 @@ Associated manuscript will be available soon.
 <summary><b>Semi-automated single-cell data annotation</b></summary>
 <br>
 
-#### <a href="https://github.com/davnovak/hloss"><strong>hloss</strong></a>
+<h4><a href="https://github.com/davnovak/hloss"><strong>hloss</strong></a></h4>
 
 <em>hloss</em> is a work I presented at the ABLS 2022 bioinformatics conference.
 It tackles the issue of evaluating cell type classification in single-cell data in a way that reflects known hierarchies and ontologies.
