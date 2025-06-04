@@ -1,18 +1,24 @@
 <p><code>davidnovak9000 at gmail dot com</code></p>
 <p><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar page</a> • <a href="https://github.com/davnovak">GitHub page</a></p>
-<p>Hi there! I&#39;m a <em>bioinformatician/computational biologist</em> and PhD researcher at <a href="https://saeyslab.sites.vib.be/en">Saeys lab</a>, Flemish Institute of Biotechnology in Belgium.
-The focus of my PhD has been exploratory and statistical modelling of <strong>high-dimensional cytometry</strong> and <strong>single-cell RNA-seq data</strong>.
-I love collaborating with immunologists, bioinformaticians and computer scientists alike, and <strong>delivering interpretable and interactive solutions to all the problems involved with big and complex data</strong>.
-That includes effective presentation of results, complex data visualisation and designing graphical user interfaces to empower domain experts.</p>
-<p>I enjoy teaching and tutoring, having co-taught <strong>machine learning</strong> at Ghent University for 4 years, which involved <strong>guiding over 200 students</strong> through practicals and helping them design and carry out semestral projects.
-I also co-organised the successful <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School 2024</a> where I taught statistical analyses of cytometry data.</p>
-<p>I&#39;m proficient in <strong>R &amp; Python</strong> for data analysis and deeply familiar with <strong>high-dimensional cytometry and scRNA-seq data</strong>, having built and maintained large analytical pipelines, and written new algorithms to advance the state-of-the-art in interpretable single-cell analysis.
-Other IT-related skills are listed in my <a href="cv.pdf">CV</a>.</p>
+<p>Hi there! I&#39;m a <strong>bioinformatician</strong> and finishing <strong>PhD researcher</strong> at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology in Belgium, and a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
+I focus mostly but not exclusively on flow cytometry, CyTOF, bulk and single-cell RNA-seq, and other NGS data.
+I have a track record in algorithm development as well as more data-driven analytical workflows.</p>
+
+<p>In my PhD I've advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
+I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
+
+<h4>I'm finishing my PhD in June 2025 and open to work, looking for interesting positions primarily in Canada.</h4>
+
+<p>I am excited about <strong>responsible and interpretable AI and machine learning in biology</strong>.
+At Ghent University, I have designed and taught practical sessions for over 200 post-grad students over 4 years, as well as guiding individuals and groups with their ML projects.
+I also co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, guiding participants on statistical analysis within computational cytometry.</p>
+
 <details>
 <summary><b>My background</b></summary>
 <br>
 
-A biology undergrad, I shifted toward bioinformatics a year into my studies, and went on to do a Master&#39;s and PhD in it (which I&#39;m finishing up now).
+A biology undergrad, I shifted toward bioinformatics a year into my studies, and went on to do a Master&#39;s and PhD in it.
 
 My research started out at <a href="https://clip.lf2.cuni.cz/en">Childhood Lekaemia Investigation Prague (<b>CLIP</b>)</a>, where I worked with flow &amp; CyTOF data, helping to develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: an interactive trajectory inference tool powered by <strong>persistent homology</strong>.
 This allowed to build multi-organ models of human B-cell development (<a href="https://elifesciences.org/reviewed-preprints/95861">here</a>) and T-cell development (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">here</a>).
@@ -20,16 +26,16 @@ This allowed to build multi-organ models of human B-cell development (<a href="h
 I started a collaboration with UCLouvain to I develop <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a novel VAE-based <strong>dimension-reduction</strong> model with QC measures grounded in <strong>differential geometry</strong>, and a framework for evaluating embeddings of single-cell datasets.
 Our manuscript (<a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568428v3">here</a>) is under review now.
 
-Working with immunologists from the NIH, I designed and validated <em>iidx</em>: an end-to-end pipeline for large-scale statistical analysis of complex age- and sex-associated immunophe- notype changes, and put it to use with a 2196-donor flow cytometry data cohort.
-We&#39;re releasing this soon.
+Working with immunologists from the NIH, I designed and validated <a href="https://github.com/saeyslab/iidx"><em>iidx</em></a>: an end-to-end pipeline for large-scale statistical analysis of complex age- and sex-associated immunophe- notype changes, and put it to use with a 2196-donor flow cytometry data cohort.
 
 <hr>
 </details>
 
 <h3 id="my-projects">My projects</h3>
-<p>I list some of my projects, including collaborations, below, sorted by category.</p>
+<p>I list some of my projects, including collaborations, below.
+They are sorted into categories.</p>
 <details>
-<summary><b>Dimension reduction and structure learning</b></summary>
+<summary><b>Dimensionality reduction and structure learning</b></summary>
 <br>
 
 <h4><a href="https://github.com/saeyslab/ViVAE"><strong>ViVAE</strong></a></h4>
@@ -66,11 +72,9 @@ The tool has since been applied successfully to create multi-organ models of dev
 <summary><b>Differential expression analysis</b></summary>
 <br>
 
-<h4><strong><em>iidx:</em> Interpretable and interactive differential expression in cytometry</strong></h4>
+<h4><a href="https://github.com/saeyslab/iidx"><strong><em>iidx:</em> interpretable and interactive differential expression in cytometry</strong></a></h4>
 
-<em>A public repository with a novel end-to-end pipeline for robust differential expression modelling in large flow cytometry data cohorts will soon be added.</em>
-We&#39;re dealing with delays due to a publication freeze.
-
+<i>iidx</i> is the most comprehensive workflow for pre-processing and differential expression analysis in large cytometry cohorts to date.
 The work will be presented by me &amp; Thomas Liechti at CYTO 2025.
 
 <h4><a href="https://github.com/davnovak/tidycell"><strong>tidycell</strong></a></h4>
@@ -89,8 +93,6 @@ It has been applied on GvHD data and in a project on head &amp; neck cancers at 
 
 <em>SingleBench</em> will get you from data to discovery quicker.
 It is an R framework for better interpretation of cytometry clustering, hyperparameter tuning &amp; benchmarking.
-I presented this work at CYTO 2021 and recently picked it up again and extended it.
-Associated manuscript will be available soon.
 
 <hr>
 </details>
