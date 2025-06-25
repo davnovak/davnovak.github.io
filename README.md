@@ -1,10 +1,10 @@
 <p><code>davidnovak9000 at gmail dot com</code></p>
 <p><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar page</a> • <a href="https://github.com/davnovak">GitHub page</a></p>
-<p>Hi there! I&#39;m a <strong>bioinformatician</strong> and finishing <strong>PhD researcher</strong> at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology in Belgium, and a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
+<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
 I focus mostly but not exclusively on flow cytometry, CyTOF, bulk and single-cell RNA-seq, and other NGS data.
 I have a track record in algorithm development as well as more data-driven analytical workflows.</p>
 
-<p>In my PhD I've advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+<p>In my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology, I've advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
 I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
