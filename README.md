@@ -8,7 +8,7 @@ I have a track record in algorithm development as well as more data-driven analy
 I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
-<h4>I'm finishing my PhD in June 2025 and open to work, looking for interesting positions primarily in Canada.</h4>
+<h4>I'm open to work, looking for interesting positions primarily (but not exclusively) in Canada.</h4>
 
 <p>I am excited about <strong>responsible and interpretable AI and machine learning in biology</strong>.
 At Ghent University, I have designed and taught practical sessions for over 200 post-grad students over 4 years, as well as guiding individuals and groups with their ML projects.
