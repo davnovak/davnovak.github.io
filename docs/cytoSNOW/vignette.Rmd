@@ -417,6 +417,25 @@ I have done initial work on that in the [*iidx*](https://github.com/saeyslab/iid
 There's work to be done to reduce the overhead associated with parallelising.
 There's also an obvious opportunity to use **distributed computing** here.
 
+## Alternatives to *cytoSNOW*
+
+There are great alternatives to (and relatives of) *cytoSNOW*, each with its own strengths.
+
+[`BiocParallel`](https://www.bioconductor.org/packages/devel/bioc/html/BiocParallel.html) is the go-to for general parallel evaluation compatible with Bioconductor objects.
+
+[`CATALYST`](https://www.bioconductor.org/packages/devel/bioc/html/CATALYST.html) supports parallelisation via `BiocParallel` for a number of steps, from pre-processing up to differential expression analysis.
+However, if you don't want to hold all data in memory, you have to manually chunk the data into multiple `SingleCellExperiment` objects to make things work.
+
+[`ncdfFlow`](https://www.bioconductor.org/packages/devel/bioc/html/ncdfFlow.html) can be used to address the memory issue here.
+However, in a real-life collaboration with domain experts (*e.g.*, immunologists), keeping FCS files as the format of choice (both of raw and pre-processed data) is easiest, and it avoids the need to load too much data into memory in the first place.
+
+::: {style="border: 1px solid #4A90E2;      border-radius: 10px;              padding: 10px;                  background-color: #f0f8ff;      color: #333333;                 margin: 10px 0;"}
+**My aim with *cytoSNOW* is to have a cytometry-specific solution that's extremely easy to deploy with close-to-zero overhead for the analyst to have things run in parallel.** And thus empower users with consumer-level hardware to do some great work with cytometry data!
+:::
+
+Did I miss an existing solution that you believe is better than mine?
+Please [**let me know**](https://davnovak.github.io/)–I'll be happy to see what the most efficient way forward is to advance the field.
+
 ## Need help with your analyses?
 
 I'm a freelance bioinformatics consultant passionate about cytometry, single-cell transcriptomics, and many other modalities of data.

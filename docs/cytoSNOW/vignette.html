@@ -1923,6 +1923,37 @@ have done initial work on that in the <a href="https://github.com/saeyslab/iidx"
 parallelising. There’s also an obvious opportunity to use
 <strong>distributed computing</strong> here.</p>
 </div>
+<div id="alternatives-to-cytosnow" class="section level2">
+<h2>Alternatives to <em>cytoSNOW</em></h2>
+<p>There are great alternatives to (and relatives of) <em>cytoSNOW</em>,
+each with its own strengths.</p>
+<p><a href="https://www.bioconductor.org/packages/devel/bioc/html/BiocParallel.html"><code>BiocParallel</code></a>
+is the go-to for general parallel evaluation compatible with
+Bioconductor objects.</p>
+<p><a href="https://www.bioconductor.org/packages/devel/bioc/html/CATALYST.html"><code>CATALYST</code></a>
+supports parallelisation via <code>BiocParallel</code> for a number of
+steps, from pre-processing up to differential expression analysis.
+However, if you don’t want to hold all data in memory, you have to
+manually chunk the data into multiple <code>SingleCellExperiment</code>
+objects to make things work.</p>
+<p><a href="https://www.bioconductor.org/packages/devel/bioc/html/ncdfFlow.html"><code>ncdfFlow</code></a>
+can be used to address the memory issue here. However, in a real-life
+collaboration with domain experts (<em>e.g.</em>, immunologists),
+keeping FCS files as the format of choice (both of raw and pre-processed
+data) is easiest, and it avoids the need to load too much data into
+memory in the first place.</p>
+<div style="border: 1px solid #4A90E2;      border-radius: 10px;              padding: 10px;                  background-color: #f0f8ff;      color: #333333;                 margin: 10px 0;">
+<p><strong>My aim with <em>cytoSNOW</em> is to have a cytometry-specific
+solution that’s extremely easy to deploy with close-to-zero overhead for
+the analyst to have things run in parallel.</strong> And thus empower
+users with consumer-level hardware to do some great work with cytometry
+data!</p>
+</div>
+<p>Did I miss an existing solution that you believe is better than mine?
+Please <a href="https://davnovak.github.io/"><strong>let me
+know</strong></a>–I’ll be happy to see what the most efficient way
+forward is to advance the field.</p>
+</div>
 <div id="need-help-with-your-analyses" class="section level2">
 <h2>Need help with your analyses?</h2>
 <p>I’m a freelance bioinformatics consultant passionate about cytometry,
