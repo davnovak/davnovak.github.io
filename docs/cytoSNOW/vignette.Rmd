@@ -53,7 +53,7 @@ The running times with and without the use of *cytoSNOW* are ultimately compared
 
 The packages required for running the workflow itself are `flowCore`, `FlowSOM`, `cytoSNOW`, and `bench`.
 
-To plot a comparison of running times using a stacked bar plot, `tidyverse` and `ggtext`
+To plot a comparison of running times using a stacked bar plot, `tidyverse` and `ggtext` are also needed.
 
 The code was tested on a consumer laptop (MacBook Air M1 with 16GB RAM) with *cytoSNOW* using 7 CPU cores.
 
