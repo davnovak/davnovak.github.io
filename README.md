@@ -137,6 +137,11 @@ We&#39;re incorporating some of the evaluation metrics from <em>ViScore</em> int
 <summary><b>Utilities for computational cytometry</b></summary>
 <br>
 
+<h4><a href="https://github.com/davnovak/cytoSNOW"><strong>cytoSNOW</strong></a></h4>
+
+<em>cytoSNOW</em> takes the standard <a href="https://www.nature.com/articles/s41596-021-00550-0">FlowSOM protocol</a> and speeds it up, to work fast with big data.
+I'm interested in making computational cytometry accessible to anyone, even without fancy hardware&mdash;this is a step in that direction.
+
 <h4><a href="https://github.com/davnovak/qctoy"><strong>qctoy</strong></a></h4>
 
 <em>qctoy</em> is an R package for <strong>simulating aberrances in flow cytometry measurements</strong> that are relevant in designing QC tools and pipelines.
