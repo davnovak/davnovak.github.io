@@ -26,7 +26,7 @@ From QC and pre-processing, through signal normalisation and cluster analyses, t
 A large computational pipeline can require **hundreds of re-runs**, and close coordination of the data analyst with **domain experts** is a must.
 
 When working with datasets from hundreds of donors/patients, **re-running the pipelines takes a great deal of computing power and time**.
-This makes computational cytometry work unaccessible if you don't have powerful hardware.
+This makes computational cytometry work inaccessible if you don't have powerful hardware.
 
 ## Aims of this project
 
