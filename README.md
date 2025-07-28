@@ -22,6 +22,7 @@ I also co-organised the inaugural <a href="https://training.vib.be/all-trainings
 <details>
 <summary><b>My background</b></summary>
 
+
 <ul>
 <li>
 A biology undergrad, I shifted toward bioinformatics a year into my studies, and went on to complete a Master and PhD in it.
