@@ -82,7 +82,6 @@ Check out the conference paper <a href="https://bnaic2023.tudelft.nl/static/medi
 
 <details>
 <summary><b>Topological trajectory inference</b></summary>
-<br>
 
 <h4><a href="https://github.com/stuchly/tviblindi"><strong>tviblindi</strong></a></h4>
 
@@ -95,7 +94,6 @@ The tool has since been applied successfully to create multi-organ models of dev
 
 <details>
 <summary><b>Differential expression analysis</b></summary>
-
 
 <h4><a href="https://github.com/saeyslab/iidx"><strong><em>iidx:</em> interpretable and interactive differential expression in cytometry</strong></a></h4>
 
