@@ -19,9 +19,8 @@ I collaborate with immunologists, bioinformaticians, and computer scientists ali
 At Ghent University, I have designed and taught practical sessions for over 200 post-grad students over 4 years, as well as guiding individuals and groups with their ML projects.
 I also co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, guiding participants on statistical analysis within computational cytometry.</p>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>My background</b></summary>
-<br>
 
 <ul>
 <li>
@@ -61,9 +60,8 @@ I have a number of side projects, and sometimes I write blog posts where I showc
 <p>Below, I list some of my projects, including collaborations.
 For most, the associated code and documentation are up on GitHub.
 In some cases, the release of all materials is pending journal publication.</p>
-<details style="max-width: 90%;">
+<details>
 <summary><b>Dimensionality reduction and structure learning</b></summary>
-<br>
 
 <h4><a href="https://github.com/saeyslab/ViVAE"><strong>ViVAE</strong></a></h4>
 
@@ -82,7 +80,7 @@ Check out the conference paper <a href="https://bnaic2023.tudelft.nl/static/medi
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Topological trajectory inference</b></summary>
 <br>
 
@@ -95,9 +93,9 @@ The tool has since been applied successfully to create multi-organ models of dev
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Differential expression analysis</b></summary>
-<br>
+
 
 <h4><a href="https://github.com/saeyslab/iidx"><strong><em>iidx:</em> interpretable and interactive differential expression in cytometry</strong></a></h4>
 
@@ -117,7 +115,7 @@ This is done in addition to Wilcoxon ranked-sum testing of differential abundanc
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Accelerating discovery in cytometry data</b></summary>
 
 <h4><a href="https://github.com/saeyslab/SingleBench"><strong>SingleBench</strong></a></h4>
@@ -130,9 +128,8 @@ It also allows you to test the influence of iterative data denoising (smoothing)
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Semi-automated single-cell data annotation</b></summary>
-<br>
 
 <h4><a href="https://github.com/davnovak/hloss"><strong>hloss</strong></a></h4>
 
@@ -150,9 +147,8 @@ This is an ongoing effort, since the requirement of preserving some distribution
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Evaluation &amp; benchmarking of dimension reduction</b></summary>
-<br>
 
 <h4><a href="https://github.com/saeyslab/ViScore"><strong>ViScore</strong></a></h4>
 
@@ -166,9 +162,8 @@ We&#39;re incorporating some of the evaluation metrics from <em>ViScore</em> int
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Utilities for computational cytometry</b></summary>
-<br>
 
 <h4><a href="https://github.com/davnovak/cytoSNOW"><strong>cytoSNOW</strong></a></h4>
 
@@ -189,9 +184,8 @@ I developed this small tool during a summer internship in 2019 at SaeysLab to he
 <hr>
 </details>
 
-<details style="max-width: 90%;">
+<details>
 <summary><b>Miscellaneous</b></summary>
-<br>
 
 <h4><a href="https://github.com/davnovak/RCondaRun"><strong>RCondaRun</strong></a></h4>
 
