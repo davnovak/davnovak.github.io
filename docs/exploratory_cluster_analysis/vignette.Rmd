@@ -22,8 +22,8 @@ pre, code {
 
 ------------------------------------------------------------------------
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 ```
 
 **Exploratory data analysis (EDA) in cytometry is overwhelmingly powered by clustering and dimensionality reduction.** This project is a little case study into the clustering part.
@@ -116,7 +116,7 @@ b <- Benchmark(
 
 ```
 
-Note that the `Benchmark` object creates its auxiliaty HDF5 file.
+Note that the `Benchmark` object creates its auxiliary HDF5 file.
 HDF5 is a hierarchical format for managing large and potentially complex data.
 This allows us to easily run larger evaluations, for instance with multiple clustering workflows side-by-side for comparison.
 
@@ -133,7 +133,7 @@ Executing it is simple.
 
 Evaluate(
   benchmark       = b,
-  seed.clustering = 1  # for exact reproducibility of results
+  seed.clustering = 1
 )
 ```
 
@@ -187,10 +187,10 @@ Note, for instance, that:
 -   Some 3/5 of all *plasmacytoid dendritic cells* (pDCs) fall into these green-framed clusters on the right (clusters 3, 5, 9, 16).
     This means that **FlowSOM divided the pDCs population into multiple smaller subsets, based on phenotypic differences between them**.
 
--   The clustering reveals subpopulations along the *common myeloid progenitors* (CMP) to *granulocyte-monocyte progenitors* (GMP) differentiation pathway (clusters 24, 39).
+-   The clustering reveals subpopulations along the *common myeloid progenitors* (CMP) to *granulocyte-monocyte progenitors* (GMP) differentiation pathway (clusters 25, 39).
     Perhaps the gating there can be refined also.
 
--   **Some overlaps between clusters matchable to eosinophils, classical monocytes, and intermediate monocytes is indicated.** By investigating the identity of the respective populations and mixed clusters (*e.g.*, clusters 24, 33), we can figure out further whether this is a mistake in the gating, or in the clustering.
+-   **Some overlaps between clusters matchable to eosinophils, classical monocytes, and intermediate monocytes is indicated.** By investigating the identity of the respective populations and mixed clusters (*e.g.*, clusters 28, 34), we can figure out further whether this is a mistake in the gating, or in the clustering.
 
 Once you get used to these similarity heatmaps, you can go from the clustering result to valuable insights very quickly.
 
