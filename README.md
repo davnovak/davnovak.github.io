@@ -22,7 +22,7 @@ I also co-organised the inaugural <a href="https://training.vib.be/all-trainings
 <details>
 <summary><b>My background</b></summary>
 
-
+<br>
 <ul>
 <li>
 A biology undergrad, I shifted toward bioinformatics a year into my studies, and went on to complete a Master and PhD in it.
@@ -52,6 +52,9 @@ We managed to put together the largest high-dimensional cytometry map of immune 
 I have a number of side projects, and sometimes I write blog posts where I showcase the work and discuss related matters that are interesting to me:
 
 <ul>
+<li>
+<a href="https://davnovak.github.io/docs/exploratory_cluster_analysis/vignette.html"><strong>Exploratory cluster analysis in cytometry, made efficient</strong></a> (2025-08-07)
+</li>
 <li>
 <a href="https://davnovak.github.io/docs/cytoSNOW/vignette.html"><strong>Fast cytometry analysis with <i>cytoSNOW</i></strong></a> (2025-07-23)
 </li>
