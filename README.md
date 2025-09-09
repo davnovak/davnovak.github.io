@@ -10,19 +10,18 @@ With hands-on and leadership experience in bioinformatics, I focus mostly but no
 I have a track record in algorithm development as well as more data-driven analytical workflows.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
-<p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology, I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
-I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
-I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
-
-<p>At Ghent University, I designed and taught practical sessions for over 200 ML students over 4 years, as well as guiding individuals and groups with their projects.
-I also co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, teaching statistical analysis for computational cytometry.</p>
-
 <div style="border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; background-color: #f0f8ff;      color: #333333; margin: 10px 0;">
 Do you need help with your flow/spectral/mass cytometry, single-cell, or spatial data analysis?
 Shoot me an e-mail!
 I'm also open to interesting new work opportunities, looking for interesting positions primarily (but not exclusively) in Canada, full-time or contract.
 </div>
 
+<p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology, I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
+I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
+
+<p>At Ghent University, I designed and taught practical sessions for over 200 ML students over 4 years, as well as guiding individuals and groups with their projects.
+I also co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, teaching statistical analysis for computational cytometry.</p>
 
 <details>
 <summary><b>My background</b></summary>
