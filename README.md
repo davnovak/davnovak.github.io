@@ -52,7 +52,7 @@ We managed to put together <strong>the largest high-dimensional cytometry map of
 <hr>
 </details>
 
-<h2 id="my-blog">Blog posts</h3>
+<h2 id="my-blog">Blog posts</h2>
 
 Some of my most interesting experiments and workflows: <strong>open-source, reproducible, and fully documented</strong>.
 Here they are:
@@ -66,7 +66,7 @@ Here they are:
 </li>
 </ul>
 
-<h2 id="my-projects">Portfolio</h3>
+<h2 id="my-projects">Portfolio</h2>
 <p>A selection of my projects (incl. collaborations) can be found below.
 For most, code and documentation are up on GitHub.
 In some cases, the release of all materials is pending journal publication.</p>
