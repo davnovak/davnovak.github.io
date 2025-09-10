@@ -5,47 +5,51 @@
   }
 </style>
 <p><code>davidnovak9000 at gmail dot com</code></p>
-<p><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a></p>
+<div style="border: 0px; border-radius: 5px; padding-top: 0px; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; background-color: #f7f7f7; color: #333333; margin: 0px 0;"><p><strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a></strong></p></div>
 <p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
 With hands-on and leadership experience in bioinformatics, I focus mostly but not exclusively on flow cytometry, CyTOF, bulk and single-cell RNA-seq, and other NGS data.
 I have a track record in algorithm development as well as more data-driven analytical workflows.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
-<div style="border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; background-color: #f0f8ff;      color: #333333; margin: 10px 0;">
+<div style="border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
 <strong>Are you having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
 I can help.</strong>
 Feel free to e-mail me, and we'll discuss what I can do for you.
 </div>
 
-<p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology, I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+<p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, (VIB-UGent, Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
 I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
-<p>At Ghent University, I designed and taught practical sessions for over 200 ML students over 4 years, as well as guiding individuals and groups with their projects.
-I also co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, teaching statistical analysis for computational cytometry.</p>
-
 <details>
-<summary><b>My background</b></summary>
+<summary><strong>My background</strong></summary>
 
 <br>
 <ul>
 <li>
-A biology undergrad, I shifted toward bioinformatics a year into my studies, and went on to complete a Master and PhD in it.
+A Biology undergrad, I shifted toward <strong>computer science &amp; bioinformatics</strong> a year into my studies, completing a Bioinformatics MSc at <a href="https://natur.cuni.cz/en">Charles University</a>.
 </li>
 <li>
-My research carrer began at <a href="https://clip.lf2.cuni.cz/en">Childhood Lekaemia Investigation Prague (<b>CLIP</b>)</a>, where I worked with flow &amp; CyTOF data, helping develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: an interactive trajectory inference tool powered by <strong>persistent homology</strong>.
-This allowed us to build multi-organ models of human B-cell development (<a href="https://elifesciences.org/reviewed-preprints/95861">here</a>) and T-cell development (<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">here</a>).
+My research started at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Lekaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab.
+Focusing chiefly on flow &amp; CyTOF data, I helped develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
+This allowed us to build <strong> multi-organ models of human <a href="https://elifesciences.org/reviewed-preprints/95861">B-cell</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">T-cell</a> development</strong>.
 </li>
 <li>
-Then I secured a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a> and accepted a PhD position at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, which falls under the Flemish Institute of Biotechnology and Ghent University.
+Having secured a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a>, I accepted a PhD position at <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, VIB-UGent</strong>.
+<ul style="margin-top: 0; margin-bottom: 0;">
+<li>
+Heading a collab with colleagues at <a href="https://www.uclouvain.be/en">UCLouvain</a>, I led the development of <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a novel trustworthy <strong>dimension-reduction</strong> model with QC measures grounded in differential geometry, and a <strong>framework for robustly evaluating low-dimensional data embeddings</strong>.
 </li>
 <li>
-There I initiated a collaboration with UCLouvain to develop <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a novel VAE-based <strong>dimension-reduction</strong> model with QC measures grounded in <strong>differential geometry</strong>, and a framework for evaluating embeddings of single-cell datasets.
+I'm leading a collaborative project with immunologists from <strong><a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a>, Vaccine Research Center, NIH</strong>.
+I designed <strong><a href="https://github.com/saeyslab/iidx"><em>iidx</em></a></strong>: an end-to-end workflow for large-scale statistical analysis of complex immunophenotype changes in cytometry data.
+We managed to put together <strong>the largest high-dimensional cytometry map of immune system changes linked to age and sex to date</strong>, with a cohort of 2196 human donors.
+</li>
+</ul>
 </li>
 <li>
-I also led a project in collaboration with immunologists from <a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a> at the Vaccine Research Center, NIH.
-I designed and validated <a href="https://github.com/saeyslab/iidx"><em>iidx</em></a>: an end-to-end pipeline for large-scale statistical analysis of complex age- and sex-associated immunophenotype changes, and put it to use with a 2196-donor flow cytometry data cohort.
-We managed to put together <strong>the largest high-dimensional cytometry map of immune system changes linked to age and sex to date</strong>.
+I designed and taught <strong>practical sessions for over 200 machine learning students</strong> over 4 years at Ghent University, as well as guiding individuals and groups with their projects.
+Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, <strong>teaching statistical analysis for computational cytometry</strong>.
 </li>
 </ul>
 
@@ -206,7 +210,6 @@ This is a course project we teamed up for during our Master&#39;s in Bioinformat
 It&#39;s some of my earliest code, written during my Bachelor&#39;s in Biology during which I took elective computer science courses.
 
 
-<hr>
 </details>
 
 <hr>
