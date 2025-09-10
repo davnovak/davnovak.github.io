@@ -1,6 +1,12 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 <style>
   html, body {
     overflow-y: scroll;
+    font-family: "Roboto";
+    font-weight: 350;
   }
 </style>
 <p><code>davidnovak9000 at gmail dot com</code></p>
@@ -11,9 +17,9 @@ I have a track record in algorithm development as well as more data-driven analy
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; background-color: #f0f8ff;      color: #333333; margin: 10px 0;">
-Do you need help with your flow/spectral/mass cytometry, single-cell, or spatial data analysis?
-Shoot me an e-mail!
-I'm also open to interesting new work opportunities, looking for interesting positions primarily (but not exclusively) in Canada, full-time or contract.
+<strong>Are you having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
+I can help.</strong>
+Feel free to e-mail me, and we'll discuss what I can do for you.
 </div>
 
 <p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Flemish Institute of Biotechnology, I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
@@ -207,3 +213,9 @@ It&#39;s some of my earliest code, written during my Bachelor&#39;s in Biology d
 
 <hr>
 </details>
+
+<hr>
+
+<center>
+<img src="cells.png" height="80px" />
+</center>
