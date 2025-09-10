@@ -1,7 +1,7 @@
 <style>
   html, body {
     overflow-y: scroll;
-    font-weight: 100;
+    font-weight: 250;
   }
 </style>
 <p><code>davidnovak9000 at gmail dot com</code></p>
