@@ -5,13 +5,15 @@
   }
 </style>
 <p><code>davidnovak9000 at gmail dot com</code></p>
-<div style="border: 0px; border-radius: 5px; padding-top: 0px; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; background-color: #f7f7f7; color: #333333; margin: 0px 0;"><p><strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a></strong></p></div>
+<div style="border: 1px lightgrey solid; border-radius: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; background-color: white; color: #333333;">
+<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a></strong>
+</div>
 <p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
 With hands-on and leadership experience in bioinformatics, I focus mostly but not exclusively on flow cytometry, CyTOF, bulk and single-cell RNA-seq, and other NGS data.
 I have a track record in algorithm development as well as more data-driven analytical workflows.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
-<div style="border: 1px solid #4A90E2; border-radius: 10px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
+<div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
 <strong>Are you having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
 I can help.</strong>
 Feel free to e-mail me, and we'll discuss what I can do for you.
