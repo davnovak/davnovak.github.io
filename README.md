@@ -4,14 +4,15 @@
     font-weight: 250;
   }
 </style>
-<p><code>davidnovak9000 at gmail dot com</code></p>
+
+<p style="font-size: 36px; font-weight: 500;">David Novak, PhD</p>
+
 <div style="border: 1px lightgrey solid; border-radius: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; background-color: white; color: #333333;">
-<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a></strong>
+<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: transparent; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
-<hr style="height:0px; visibility:hidden;" />
-<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a>.
+
+<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.
 With hands-on and leadership experience in bioinformatics, I focus mostly but not exclusively on flow cytometry, CyTOF, bulk and single-cell RNA-seq, and other NGS data.
-I have a track record in algorithm development as well as more data-driven analytical workflows.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
@@ -20,7 +21,7 @@ I can help.</strong>
 Feel free to e-mail me, and we'll discuss what I can do for you.
 </div>
 
-<p>During my PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, (VIB-UGent, Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, (VIB-UGent, Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
 I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
