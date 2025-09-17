@@ -21,7 +21,7 @@ I can help.</strong>
 Feel free to e-mail me, and we'll discuss what I can do for you.
 </div>
 
-<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, (Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
+<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
 I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
