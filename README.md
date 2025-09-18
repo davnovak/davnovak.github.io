@@ -8,7 +8,7 @@
 <p style="font-size: 36px; font-weight: 500;">David Novak, PhD</p>
 
 <div style="border: 1px lightgrey solid; border-radius: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; background-color: white; color: #333333; margin-bottom: 10px;">
-<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: transparent; border: 0px;">davidnovak9000 at gmail dot com</code>
+<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
 
 <p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.
