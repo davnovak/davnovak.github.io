@@ -11,18 +11,20 @@
 <strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
 
-<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.
-With both hands-on and leadership experience in bioinformatics, I focus on a wide array of data modalities, and their various combinations. These are, mostly but not exclusively, flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
+<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.</p>
+
+<p>With both hands-on and leadership experience, I focus on many data modalities. That incldues flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
-<strong>Are you having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
+<strong>Having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
 I can help.</strong>
-Feel free to e-mail me, and we'll discuss what I can do for you.
+Reach out and we'll discuss what I can do for you.
 </div>
 
-<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.
-I always put an emphasis on creating <strong>interactive solutions to keep domain experts in the loop</strong>.
+<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.</p>
+
+<p>I always put an emphasis on <strong>interactive solutions that keep domain experts in the loop</strong>.
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
 <details>
@@ -66,6 +68,9 @@ Some of my most interesting experiments and workflows: <strong>open-source, repr
 Here they are:
 
 <ul>
+<li>
+<strong>AI-powered exploration of scRNA-seq blood data</strong> (coming soon)
+</li>
 <li>
 <a href="https://davnovak.github.io/docs/exploratory_cluster_analysis/vignette.html"><strong>Exploratory cluster analysis in cytometry, made efficient</strong></a> (2025-08-07)
 </li>
