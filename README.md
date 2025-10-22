@@ -13,7 +13,7 @@
 
 <p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.</p>
 
-<p>With both hands-on and leadership experience, I focus on many data modalities. That incldues flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
+<p>With both hands-on and leadership experience, I focus on many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
