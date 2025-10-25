@@ -36,7 +36,7 @@ I collaborate with immunologists, bioinformaticians, and computer scientists ali
 A Biology undergrad, I shifted toward <strong>computer science &amp; bioinformatics</strong> a year into my studies, completing a Bioinformatics MSc at <a href="https://natur.cuni.cz/en">Charles University</a>.
 </li>
 <li>
-My research started at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Lekaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab.
+My research started at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab.
 Focusing chiefly on flow &amp; CyTOF data, I helped develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
 This allowed us to build <strong> multi-organ models of human <a href="https://elifesciences.org/reviewed-preprints/95861">B-cell</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">T-cell</a> development</strong>.
 </li>
