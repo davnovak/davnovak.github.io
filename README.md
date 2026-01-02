@@ -11,21 +11,21 @@
 <strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
 
-<p>Hi there! I&#39;m a <strong>bioinformatics and machine learning consultant</strong> working with <a href="https://burnslsc.com">Burns LSC</a> and <a href="https://www.ioniccytometry.com/">Ionic</a>.</p>
+<p><h4>Hi there!</h4></p>
+
+<p>I&#39;m a <strong>bioinformatics and machine learning researcher and consultant</strong>.
+Starting in January 2026, I'll be working as a <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at Keck School of Medicine of USC (US)</strong>, advancing cell and gene therapy.</p>
+
+<p>Previously, I've done research at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), and worked independently with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
 <p>With both hands-on and leadership experience, I focus on many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
-<strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong></p>
+<strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong>
+I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
 <strong>Having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
-I can help.</strong>
-Reach out and we'll discuss what I can do for you.
+Reach out!</strong>
 </div>
-
-<p>During my MSc at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and PhD at <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), I advanced <strong>exploratory data analysis and statistical modelling of high-dimensional biological datasets</strong>.</p>
-
-<p>I always put an emphasis on <strong>interactive solutions that keep domain experts in the loop</strong>.
-I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
 <details>
 <summary><strong>My background</strong></summary>
