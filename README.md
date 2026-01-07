@@ -16,7 +16,7 @@
 <p>I&#39;m a <strong>bioinformatics and machine learning researcher and consultant</strong>.
 Starting in January 2026, I'll be working as a <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at Keck School of Medicine of USC (US)</strong>, advancing cell and gene therapy.</p>
 
-<p>Previously, I've done research at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), and worked independently with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
+<p>Previously, I've done research at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), and worked as an independent consultant with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
 <p>With both hands-on and leadership experience, I focus on many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
 <strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong>
@@ -56,6 +56,10 @@ We managed to put together <strong>the largest high-dimensional cytometry map of
 <li>
 I designed and taught <strong>practical sessions for over 200 machine learning students</strong> over 4 years at Ghent University, as well as guiding individuals and groups with their projects.
 Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, <strong>teaching statistical analysis for computational cytometry</strong>.
+</li>
+<li>
+After finishing my PhD, I worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.
+This allowed to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>, managing ongoing projects and assuming both hands-on and advisory roles.
 </li>
 </ul>
 
