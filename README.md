@@ -23,8 +23,8 @@ I'm working as a <strong>research associate at the <a href="https://aboueleneinl
 I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
-<strong>Having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
-Reach out!</strong>
+Having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
+<strong>Reach out!</strong>
 </div>
 
 <details>
