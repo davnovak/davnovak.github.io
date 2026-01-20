@@ -11,10 +11,10 @@
 <strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
 
-<p><h4>Hi there!</h4></p>
+<p><h3>Hi there!</h3></p>
 
 <p>I&#39;m a <strong>bioinformatics and machine learning researcher and consultant</strong>.
-Starting in January 2026, I'll be working as a <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at Keck School of Medicine of USC (US)</strong>, advancing cell and gene therapy.</p>
+I'm working as a <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at Keck School of Medicine of USC (USA)</strong>, advancing cell and gene therapy.</p>
 
 <p>Previously, I've done research at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), and worked as an independent consultant with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
