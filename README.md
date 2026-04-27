@@ -8,78 +8,81 @@
 <p style="font-size: 36px; font-weight: 500;">David Novak, PhD</p>
 
 <div style="border: 1px lightgrey solid; border-radius: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; background-color: white; color: #333333; margin-bottom: 10px;">
-<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/david-novak-04b65989">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
+<strong><a href="cv.pdf">CV</a> • <a href="https://scholar.google.com/citations?user=FU7FJPcAAAAJ&amp;hl=en">Google Scholar</a> • <a href="https://github.com/davnovak">GitHub</a> • <a href="https://www.linkedin.com/in/davnovak">LinkedIn</a> • </strong> <code style="background-color: #f2f7ff; border: 0px;">davidnovak9000 at gmail dot com</code>
 </div>
 
 <p><h3>Hi there!</h3></p>
 
-<p>I&#39;m a <strong>bioinformatics and machine learning researcher and consultant</strong>.
-I'm working as a <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at Keck School of Medicine of USC (USA)</strong>, advancing cell and gene therapy.</p>
+<p>I&#39;m David, a <strong>bioinformatics and machine learning researcher, tutor, and consultant</strong>.
+As a current <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on improving and streamlining the design of advanced cell and gene therapies.</p>
 
-<p>Previously, I've done research at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Czech Republic) and <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Belgium), and worked as an independent consultant with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
+<p>I worked as a comp bio researcher at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Prague, Czechia) and then the <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Ghent, Belgium), earning a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
-<p>With both hands-on and leadership experience, I focus on many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
-<strong>I am excited about responsible and interpretable AI and machine learning applications in biology.</strong>
-I collaborate with immunologists, bioinformaticians, and computer scientists alike.</p>
+<p>With both hands-on and project management experience, I regularly handle many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
+<strong>I am excited about responsible and interpretable AI/ML applications in biology.</strong> I deliver reproducible computational workflows that yield statistically robust results. I have collaborated with clinicians, biologists, and computational scientists alike, and have led large, interdisciplinary projects.</p>
 
-<div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">
-Having trouble with your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
+<div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">	
+Need advice on your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
 <strong>Reach out!</strong>
 </div>
 
 <details>
-<summary><strong>My background</strong></summary>
+<summary>Expand this section for more info on <strong>my background</strong></summary>
 
 <br>
 <ul>
 <li>
-A Biology undergrad, I shifted toward <strong>computer science &amp; bioinformatics</strong> a year into my studies, completing a Bioinformatics MSc at <a href="https://natur.cuni.cz/en">Charles University</a>.
+As a Biology undergrad at <a href="https://natur.cuni.cz/en">Charles University</a> (Prague, Czech Republic), I shifted toward <strong>computer science and bioinformatics</strong> a year into my studies. I ended up completing a Bioinformatics MSc in 2020.
 </li>
 <li>
-My research started at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab.
-Focusing chiefly on flow &amp; CyTOF data, I helped develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
-This allowed us to build <strong> multi-organ models of human <a href="https://elifesciences.org/reviewed-preprints/95861">B-cell</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">T-cell</a> development</strong>.
+From 2018 to 2020 I worked at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab at <a href="https://www.fnmotol.cz/en/">Czechia's largest hospital</a>.
+Focusing mainly on conventional flow &amp; CyTOF data, I helped develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
+This paved the way for <strong> multi-organ models of human <a href="https://elifesciences.org/reviewed-preprints/95861">B-cell</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">T-cell</a> development</strong>.
 </li>
 <li>
-Having secured a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a>, I accepted a PhD position at <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, VIB-UGent</strong>.
+Securing a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a> in 2020, I moved to Ghent, Belgium to start a PhD position at the <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, VIB-UGent</strong>. I completed my Bioinformatics PhD in 2025.
 <ul style="margin-top: 0; margin-bottom: 0;">
 <li>
 Heading a collab with colleagues at <a href="https://www.uclouvain.be/en">UCLouvain</a>, I led the development of <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a novel trustworthy <strong>dimension-reduction</strong> model with QC measures grounded in differential geometry, and a <strong>framework for robustly evaluating low-dimensional data embeddings</strong>.
 </li>
 <li>
-I'm leading a collaborative project with immunologists from <strong><a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a>, Vaccine Research Center, NIH</strong>.
+I'm heading a collaborative project with immunologists from <strong><a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a>, Vaccine Research Center, NIH</strong>.
 I designed <strong><a href="https://github.com/saeyslab/iidx"><em>iidx</em></a></strong>: an end-to-end workflow for large-scale statistical analysis of complex immunophenotype changes in cytometry data.
-We managed to put together <strong>the largest high-dimensional cytometry map of immune system changes linked to age and sex to date</strong>, with a cohort of 2196 human donors.
+We assembled <strong>the largest high-dimensional cytometry map of immune system changes linked to age and sex to date</strong>, with a cohort of 2196 human donors.
 </li>
 </ul>
 </li>
 <li>
-I designed and taught <strong>practical sessions for over 200 machine learning students</strong> over 4 years at Ghent University, as well as guiding individuals and groups with their projects.
-Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a>, <strong>teaching statistical analysis for computational cytometry</strong>.
+During my PhD at <a href="https://www.ugent.be">Ghent University</a>, I designed and taught <strong>practical sessions for over 200 machine learning students</strong> over 4 years, as well as guiding individuals and groups with their projects.
+Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a> in 2024, <strong>teaching statistical analysis for computational cytometry</strong>.
 </li>
 <li>
-After finishing my PhD, I worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.
-This allowed to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>, managing ongoing projects and assuming both hands-on and advisory roles.
+Toward the end of my PhD and past it (throughout 2025), I've worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>. This allowed me to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>.
+I managed multiple ongoing projects and assumed both hands-on and advisory roles.
+</li>
+<li>
+In January 2026 I moved to Los Angeles, US to join the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at the <a href="https://usc.edu">University of Southern California</a> as a postdoctoral research associate. My main function is computational lead for the <a href="https://keck.usc.edu/news/usc-receives-funding-for-ai-tool-to-advance-treatment-for-rare-pediatric-diseases/">UNICORN project</a> funded by <a href="https://arpa-h.gov">ARPA-H</a>.
 </li>
 </ul>
 
-<hr>
 </details>
 
-<h2 id="my-blog">Blog posts</h2>
+<h2 id="my-blog">Blog posts and talks</h2>
 
-Some of my most interesting experiments and workflows: <strong>open-source, reproducible, and fully documented</strong>.
-Here they are:
+Sometimes I run interesting experiments in my free time and make them into articles. Sometimes I give talks. And sometimes when that happens, I put a link down below:
 
 <ul>
 <li>
-<strong>AI-powered exploration of scRNA-seq blood data</strong> (coming soon)
+[Article] <strong>AI-powered exploration of scRNA-seq blood data</strong> (coming soon, or whenever I have more free time to write this up)
 </li>
 <li>
-<a href="https://davnovak.github.io/docs/exploratory_cluster_analysis/vignette.html"><strong>Exploratory cluster analysis in cytometry, made efficient</strong></a> (2025-08-07)
+[<i><a href="https://learning.isac-net.org">CytoU</a></i> talk] <a href="https://www.youtube.com/watch?v=66wXnko1aZg&t=659s">Dimensionality reduction in cytometry: from data to embeddings and back</a>
 </li>
 <li>
-<a href="https://davnovak.github.io/docs/cytoSNOW/vignette.html"><strong>Fast cytometry analysis with <i>cytoSNOW</i></strong></a> (2025-07-23)
+[Article] <a href="https://davnovak.github.io/docs/exploratory_cluster_analysis/vignette.html"><strong>Exploratory cluster analysis in cytometry, made efficient</strong></a> (2025-08-07)
+</li>
+<li>
+[Article] <a href="https://davnovak.github.io/docs/cytoSNOW/vignette.html"><strong>Fast cytometry analysis with <i>cytoSNOW</i></strong></a> (2025-07-23)
 </li>
 </ul>
 
