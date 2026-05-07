@@ -57,7 +57,7 @@ During my PhD at <a href="https://www.ugent.be">Ghent University</a>, I designed
 Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a> in 2024, <strong>teaching statistical analysis for computational cytometry</strong>.
 </li>
 <li>
-Toward the end of my PhD and past it (throughout 2025), I've worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>. This allowed me to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>.
+Toward the end of my PhD and past it (throughout 2025), I worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>. This allowed me to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>.
 I managed multiple ongoing projects and assumed both hands-on and advisory roles.
 </li>
 <li>
