@@ -13,10 +13,10 @@
 
 <p><h3>Hi there!</h3></p>
 
-<p>I&#39;m David, a <strong>bioinformatics and machine learning researcher, tutor, and consultant</strong>.
-As a current <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on improving and streamlining the design of advanced cell and gene therapies.</p>
+<p>I&#39;m David, a <strong>computational biologist and AI/ML researcher, tutor, and consultant</strong>.
+As <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on <strong></strong>improving and streamlining the design of advanced cell and gene therapies</strong>.</p>
 
-<p>I worked as a comp bio researcher at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Prague, Czechia) and then the <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Ghent, Belgium), earning a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
+<p>I worked as a researcher at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Prague, Czechia) and then the <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Ghent, Belgium), earning a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
 <p>With both hands-on and project management experience, I regularly handle many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
 <strong>I am excited about responsible and interpretable AI/ML applications in biology.</strong> I deliver reproducible computational workflows that yield statistically robust results. I have collaborated with clinicians, biologists, and computational scientists alike, and have led large, interdisciplinary projects.</p>
@@ -61,7 +61,7 @@ Toward the end of my PhD and past it (throughout 2025), I worked as an <strong>i
 I managed multiple ongoing projects and assumed both hands-on and advisory roles.
 </li>
 <li>
-In January 2026 I moved to Los Angeles, US to join the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at the <a href="https://usc.edu">University of Southern California</a> as a postdoctoral research associate. My main function is computational lead for the <a href="https://keck.usc.edu/news/usc-receives-funding-for-ai-tool-to-advance-treatment-for-rare-pediatric-diseases/">UNICORN project</a> funded by <a href="https://arpa-h.gov">ARPA-H</a>.
+In January 2026 I moved to Los Angeles, US to join the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at the <a href="https://usc.edu">University of Southern California</a> as a postdoctoral research associate. My main function is <strong>computational lead for the <a href="https://keck.usc.edu/news/usc-receives-funding-for-ai-tool-to-advance-treatment-for-rare-pediatric-diseases/">UNICORN project</a> funded by <a href="https://arpa-h.gov">ARPA-H</a></strong>.
 </li>
 </ul>
 
