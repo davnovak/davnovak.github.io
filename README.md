@@ -14,7 +14,7 @@
 <p><h3>Hi there!</h3></p>
 
 <p>I&#39;m David, a <strong>computational biologist and AI/ML researcher, tutor, and consultant</strong>.
-As <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on <strong></strong>improving and streamlining the design of advanced cell and gene therapies</strong>.</p>
+As <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on <strong>improving and streamlining the design of advanced cell and gene therapies</strong>.</p>
 
 <p>I worked as a researcher at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Prague, Czechia) and then the <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Ghent, Belgium), earning a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
 
