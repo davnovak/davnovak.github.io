@@ -76,7 +76,7 @@ Sometimes I run interesting experiments in my free time and make them into artic
 [Article] <strong>AI-powered exploration of scRNA-seq blood data</strong> (coming soon, or whenever I have more free time to write this up)
 </li>
 <li>
-[<i><a href="https://learning.isac-net.org">CytoU</a></i> talk] <a href="https://www.youtube.com/watch?v=66wXnko1aZg&t=659s">Dimensionality reduction in cytometry: from data to embeddings and back</a>
+[<i><a href="https://learning.isac-net.org">CytoU</a></i> talk] <a href="https://www.youtube.com/watch?v=66wXnko1aZg&t=659s"><strong>Dimensionality reduction in cytometry: from data to embeddings and back</strong></a>
 </li>
 <li>
 [Article] <a href="https://davnovak.github.io/docs/exploratory_cluster_analysis/vignette.html"><strong>Exploratory cluster analysis in cytometry, made efficient</strong></a> (2025-08-07)
