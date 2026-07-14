@@ -148,6 +148,12 @@ This is done in addition to Wilcoxon ranked-sum testing of differential abundanc
 <details>
 <summary><strong>Accelerating</strong> single-cell data <strong>annotation and exploration</strong></summary>
 
+<h4><a href="https://github.com/davnovak/omiqGTR"><strong>omiqGTR</strong></a></h4>
+
+<em>omiqGTR</em> provides interoperability for cytometry data gating between the <i>OMIQ</i> platform and R.
+It allows you to grab gates from your OMIQ workflow as R functions, so you can apply them to your cytometry data programatically, and even gate previously unseen data.
+<i>flowWorkspace</i> does this for FlowJo files already, but now we can do it with OMIQ, too.
+
 <h4><a href="https://github.com/saeyslab/SingleBench"><strong>SingleBench</strong></a></h4>
 
 <em>SingleBench</em> will get you from data to discovery faster.
