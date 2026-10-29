@@ -99,7 +99,7 @@ Framework for generating low-dimensional embeddings of single-cell genomics/cyto
 We show <i>ViVAE</i> to <strong>improve multi-scale structure preservation, interpretability, and QC mechanisms</strong>.
 Using VAEs, a novel stochastic-MDS loss (based on <a href="https://github.com/PierreLambert3/SQuaD-MDS-and-FItSNE-hybrid">SQuadMDS</a>), and data denoising, we achieve a better balance of local and global structure preservation.
 The model is equipped with a new algorithm for detecting latent space distortions (<strong>encoder indicatrices</strong>) and integrates with <a href="https://github.com/saeyslab/FlowSOM_Python">FlowSOM</a> for exploratory analysis.
-I am the first author of the associated manuscript, which I penned with my co-authors from Ghent University and UCLouvain (under review at Cell Systems; read current <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568428v3">pre-print</a> here).
+I'm the first author of an associated <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">article in Cell Systems</a>.
 The work was presented at CYTO 2024.
 
 <h4><a href="https://github.com/saeyslab/GroupEnc"><strong>GroupEnc</strong></a></h4>
@@ -192,9 +192,10 @@ This is an ongoing effort, since the requirement of preserving some distribution
 
 <em>ViScore</em> is a collection of <strong>evaluation metrics for dimensionality reduction</strong> that address past problems with <strong>fairness and scalability</strong>.
 Together with collaborators from UCLouvain, we put together a battery of both unsupervised and supervised evaluation algorithms and an <strong>extensible HPC benchmarking framework</strong>.
-We build on <strong>RNX curves</strong> and the <a href="https://github.com/akonstodata/NPE"><strong>Neighbouhood Proportion Error</strong></a> to provide novel embedding-level and population-level scores.
-This is described in our <em>ViVAE</em> <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568428v3">pre-print</a>.
+We build on <strong>RNX curves</strong> and the <a href="https://github.com/akonstodata/NPE"><strong>Neighborhood Proportion Error</strong></a> to provide novel embedding-level and population-level scores.
+This is described in our <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">paper in Cell Systems</a>.
 We&#39;re incorporating some of the evaluation metrics from <em>ViScore</em> into <a href="https://github.com/aida-ugent/TRACE"><strong>TRACE</strong></a>, as presented at CYTO 2025 by <a href="https://github.com/laura-hajzokova">Laura Hajzoková</a>.
+I reviewed some of the concepts related to evaluating embeddings in my contribution to a <a href="https://link.springer.com/article/10.1007/s00439-022-02439-8">review article in Human Genetics</a> about translational machine learning.
 
 <hr>
 </details>
