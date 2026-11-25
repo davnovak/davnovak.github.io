@@ -66,13 +66,13 @@ I managed multiple ongoing projects and assumed both hands-on and advisory roles
 Examples:
 <ul style="margin-top: 0; margin-bottom: 0;">
 <li>
-As the computational lead in a project for **Cytek Biosciences** (Apr-May 2025), I established a workflow for preprocessing and statistical analysis of bulk RNA-seq data, comprising **differential expression analysis and GSEA**.
+As the computational lead in a project for <strong>Cytek Biosciences</strong> (Apr-May 2025), I established a workflow for preprocessing and statistical analysis of bulk RNA-seq data, comprising <strong>differential expression analysis and GSEA</strong>.
 </li>
 <li>
-As an external consultant for **Dr Jolanda Sarno's group** at University of Milano-Bicocca, I advised PhD student Riccardo Scribano on computational workflows for predictive modeling using **longitudinal CyTOF data** (Apr-July 2025).
+As an external consultant for <strong>Dr Jolanda Sarno's group</strong> at University of Milano-Bicocca, I advised PhD student Riccardo Scribano on computational workflows for predictive modeling using <strong>longitudinal CyTOF data</strong> (Apr-July 2025).
 </li>
 <li>
-As the computational lead in a project with a consumer goods company (Sep-Nov 2025), I developed a custom computational workflow for analysis of **microbial flow cytometry** data and **facilitated communication with a CRO**.
+As the computational lead in a project with a consumer goods company (Sep-Nov 2025), I developed a custom computational workflow for analysis of <strong>microbial flow cytometry</strong> data and <strong>facilitated communication with a CRO</strong>.
 </li>
 </ul>
 </li>
