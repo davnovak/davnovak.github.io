@@ -13,13 +13,15 @@
 
 <p><h3>Hi there!</h3></p>
 
-<p>I&#39;m David, a <strong>computational biologist and AI/ML researcher, tutor, and consultant</strong>.
-As <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on <strong>improving and streamlining the design of advanced cell and gene therapies</strong>.</p>
+<p>I&#39;m David, a <strong>computational biologist and biomedical AI researcher</strong>.
+As <strong>research associate at the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a>, Keck School of Medicine of USC (Los Angeles, USA)</strong>, I'm working on <strong>improving and streamlining the design of advanced cell and gene therapies</strong>. I have a track record in bioinformatics research and independent consulting with labs and companies.</p>
 
-<p>I worked as a researcher at <a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a> (Prague, Czechia) and then the <a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a> (Ghent, Belgium), earning a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>.</p>
+<p>My research career started at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague</a></strong> (Prague, Czechia) and continued at the <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a></strong> (Ghent, Belgium), where I earned a PhD in bioinformatics. Next I set up as an independent consultant, working with clients in biotech and academia as a subcontractor of <strong><a href="https://burnslsc.com">Burns Life Sciences Consulting</a></strong> and <strong><a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a></strong>.</p>
 
-<p>With both hands-on and project management experience, I regularly handle many data modalities. Those include flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data.
-<strong>I am excited about responsible and interpretable AI/ML applications in biology.</strong> I deliver reproducible computational workflows that yield statistically robust results. I have collaborated with clinicians, biologists, and computational scientists alike, and have led large, interdisciplinary projects.</p>
+<p>With both hands-on and project management experience, I regularly handle many data modalities. Those include <strong>flow cytometry, CyTOF, CITE-seq, bulk and single-cell RNA-seq, and other NGS data</strong>.
+<strong>I am excited about responsible and interpretable AI/ML applications in biology.</strong> I deliver reproducible computational workflows that yield statistically robust results.</p>
+
+<p>In my collaborations with clinicians, biologists, and computational scientists, I have led large, interdisciplinary projects. <strong>I am heavily involved not only in data analysis, but experimental designs leading up to data collection</strong>.</p>
 
 <div style="border: 1px solid #4A90E2; border-radius: 5px; padding: 10px; background-color: #f0f8ff; color: #333333; margin: 10px 0;">	
 Need advice on your flow/spectral/mass cytometry, bulk/single-cell sequencing, image, or spatial data analysis?
@@ -27,41 +29,55 @@ Need advice on your flow/spectral/mass cytometry, bulk/single-cell sequencing, i
 </div>
 
 <details>
-<summary>Expand this section for more info on <strong>my background</strong></summary>
+<summary>Expand this for more on <strong>my background and experience</strong></summary>
 
 <br>
 <ul>
 <li>
-As a Biology undergrad at <a href="https://natur.cuni.cz/en">Charles University</a> (Prague, Czech Republic), I shifted toward <strong>computer science and bioinformatics</strong> a year into my studies. I ended up completing a Bioinformatics MSc in 2020.
+I completed a <strong>Biology undergrad</strong> (2018) and <strong>Bioinformatics MSc</strong> (2020) at <a href="https://natur.cuni.cz/en">Charles University</a> (Prague, Czech Republic).
 </li>
 <li>
-From 2018 to 2020 I worked at <strong><a href="https://clip.lf2.cuni.cz/en">Childhood Leukaemia Investigation Prague (CLIP)</a></strong>, a clinical and research lab at <a href="https://www.fnmotol.cz/en/">Czechia's largest hospital</a>.
-Focusing mainly on conventional flow &amp; CyTOF data, I helped develop <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
+In 2018-2020 I worked at <strong><a href="https://clip.lf2.cuni.cz/en">CLIP</a></strong>: a clinical and research hemato-oncology lab at <a href="https://www.fnmotol.cz/en/">Czechia's largest hospital</a>.
+Focused mainly on conventional flow &amp; CyTOF data, co-developed <a href="https://github.com/stuchly/tviblindi"><strong><em>tviblindi</em></strong></a>: a <strong>human-in-the-loop trajectory inference framework</strong> powered by persistent homology.
 This paved the way for <strong> multi-organ models of human <a href="https://elifesciences.org/reviewed-preprints/95861">B-cell</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eji.202451004">T-cell</a> development</strong>.
 </li>
 <li>
-Securing a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a> in 2020, I moved to Ghent, Belgium to start a PhD position at the <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, VIB-UGent</strong>. I completed my Bioinformatics PhD in 2025.
+Securing a personal <a href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO Strategic Basic Research grant</a>, I took a Bioinformatics PhD position at the <strong><a href="https://saeyslab.sites.vib.be/en">Saeys Lab</a>, Center for Inflammation Research, VIB-UGent</strong> (Ghent, Belgium). I completed my PhD in 2025.
 <ul style="margin-top: 0; margin-bottom: 0;">
 <li>
-Heading a collab with colleagues at <a href="https://www.uclouvain.be/en">UCLouvain</a>, I led the development of <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a novel trustworthy <strong>dimension-reduction</strong> model with QC measures grounded in differential geometry, and a <strong>framework for robustly evaluating low-dimensional data embeddings</strong>.
+Heading a collab with <a href="https://www.uclouvain.be/en">UCLouvain</a>, I led the development of <a href="https://github.com/saeyslab/ViVAE"><strong><em>ViVAE</em></strong></a> and <a href="https://github.com/saeyslab/ViScore"><strong><em>ViScore</em></strong></a>: a trustworthy <strong>dimension-reduction</strong> model with QC measures grounded in differential geometry, and a <strong>framework for evaluating low-dimensional embeddings</strong>.
 </li>
 <li>
-I'm heading a collaborative project with immunologists from <strong><a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a>, Vaccine Research Center, NIH</strong>.
+I'm heading an ongoing project with immunologists from <strong><a href="https://irp.nih.gov/pi/mario-roederer">Mario Roederer's lab</a>, Vaccine Research Center, NIH</strong>.
 I designed <strong><a href="https://github.com/saeyslab/iidx"><em>iidx</em></a></strong>: an end-to-end workflow for large-scale statistical analysis of complex immunophenotype changes in cytometry data.
 We assembled <strong>the largest high-dimensional cytometry map of immune system changes linked to age and sex to date</strong>, with a cohort of 2196 human donors.
 </li>
 </ul>
 </li>
 <li>
-During my PhD at <a href="https://www.ugent.be">Ghent University</a>, I designed and taught <strong>practical sessions for over 200 machine learning students</strong> over 4 years, as well as guiding individuals and groups with their projects.
-Additionally, I co-organised the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a> in 2024, <strong>teaching statistical analysis for computational cytometry</strong>.
+During my PhD, I designed and <strong>taught practical sessions for over 200 machine learning students</strong> over 4 years, as well as guiding individuals and groups with their projects <a href="https://www.ugent.be">Ghent University</a>.
 </li>
 <li>
-Toward the end of my PhD and past it (throughout 2025), I worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>. This allowed me to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech industry and academia</strong>.
+I co-organized the inaugural <a href="https://training.vib.be/all-trainings/computational-cytometry-summer-school">Computational Cytometry Summer School</a> in 2024, <strong>teaching statistical analysis for computational cytometry</strong>.
+</li>
+<li>
+Throughout 2025, I worked as an <strong>independent consultant</strong> with <a href="https://burnslsc.com">Burns Life Sciences Consulting</a> and <a href="https://www.ioniccytometry.com/">Ionic Cytometry Solutions</a>. This allowed me to pour my enthusiasm for bioinformatics into <strong>helping clients in the biotech/pharma/consumer goods industry and academia</strong>.
 I managed multiple ongoing projects and assumed both hands-on and advisory roles.
+Examples:
+<ul style="margin-top: 0; margin-bottom: 0;">
+<li>
+As the computational lead in a project for **Cytek Biosciences** (Apr-May 2025), I established a workflow for preprocessing and statistical analysis of bulk RNA-seq data, comprising **differential expression analysis and GSEA**.
 </li>
 <li>
-In January 2026 I moved to Los Angeles, US to join the <a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at the <a href="https://usc.edu">University of Southern California</a> as a postdoctoral research associate. My main function is <strong>computational lead for the <a href="https://keck.usc.edu/news/usc-receives-funding-for-ai-tool-to-advance-treatment-for-rare-pediatric-diseases/">UNICORN project</a> funded by <a href="https://arpa-h.gov">ARPA-H</a></strong>.
+As an external consultant for **Dr Jolanda Sarno's group** at University of Milano-Bicocca, I advised PhD student Riccardo Scribano on computational workflows for predictive modeling using **longitudinal CyTOF data** (Apr-July 2025).
+</li>
+<li>
+As the computational lead in a project with a consumer goods company (Sep-Nov 2025), I developed a custom computational workflow for analysis of **microbial flow cytometry** data and **facilitated communication with a CRO**.
+</li>
+</ul>
+</li>
+<li>
+In January 2026 I moved to Los Angeles, US to join the <strong><a href="https://aboueleneinlab.usc.edu">Abou-el-Enein lab</a> at the <a href="https://usc.edu">University of Southern California</a></strong> as a <strong>postdoctoral research associate</strong>. In April 2026, I assumed the role of <strong>computational lead for the <a href="https://keck.usc.edu/news/usc-receives-funding-for-ai-tool-to-advance-treatment-for-rare-pediatric-diseases/">UNICORN project</a> funded by <a href="https://arpa-h.gov">ARPA-H</a></strong>. Starting in January 2027, I will be serving as the Data Project Manager and computational analyst for the <strong><a href="https://www.cirm.ca.gov/our-progress/awards/revealing-mechanistic-architecture-governing-car-t-cell-potency-and-failure-single-cell-resolution/">DISC5-19893 project</a> funded by the <a href="">California Insitute for Regenerative Medicine (CIRM)</a></strong>.
 </li>
 </ul>
 
@@ -87,7 +103,7 @@ Sometimes I run interesting experiments in my free time and make them into artic
 </ul>
 
 <h2 id="my-projects">Portfolio</h2>
-<p>A selection of my projects (incl. collaborations) can be found below.
+<p>A selection of my projects (including collaborations) can be found below.
 For most, code and documentation are up on GitHub.
 In some cases, the release of all materials is pending journal publication.</p>
 <details>
@@ -99,8 +115,7 @@ Framework for generating low-dimensional embeddings of single-cell genomics/cyto
 We show <i>ViVAE</i> to <strong>improve multi-scale structure preservation, interpretability, and QC mechanisms</strong>.
 Using VAEs, a novel stochastic-MDS loss (based on <a href="https://github.com/PierreLambert3/SQuaD-MDS-and-FItSNE-hybrid">SQuadMDS</a>), and data denoising, we achieve a better balance of local and global structure preservation.
 The model is equipped with a new algorithm for detecting latent space distortions (<strong>encoder indicatrices</strong>) and integrates with <a href="https://github.com/saeyslab/FlowSOM_Python">FlowSOM</a> for exploratory analysis.
-I'm the first author of an associated <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">article in Cell Systems</a>.
-The work was presented at CYTO 2024.
+The work was presented at CYTO 2024 and published in <i>Cell Systems</i>: <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">here</a>.
 
 <h4><a href="https://github.com/saeyslab/GroupEnc"><strong>GroupEnc</strong></a></h4>
 
@@ -192,10 +207,9 @@ This is an ongoing effort, since the requirement of preserving some distribution
 
 <em>ViScore</em> is a collection of <strong>evaluation metrics for dimensionality reduction</strong> that address past problems with <strong>fairness and scalability</strong>.
 Together with collaborators from UCLouvain, we put together a battery of both unsupervised and supervised evaluation algorithms and an <strong>extensible HPC benchmarking framework</strong>.
-We build on <strong>RNX curves</strong> and the <a href="https://github.com/akonstodata/NPE"><strong>Neighborhood Proportion Error</strong></a> to provide novel embedding-level and population-level scores.
-This is described in our <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">paper in Cell Systems</a>.
+We build on <strong>RNX curves</strong> and the <a href="https://github.com/akonstodata/NPE"><strong>Neighbouhood Proportion Error</strong></a> to provide novel embedding-level and population-level scores.
+This is described in our <em>ViVAE</em> <a href="https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00242-5">paper</a>.
 We&#39;re incorporating some of the evaluation metrics from <em>ViScore</em> into <a href="https://github.com/aida-ugent/TRACE"><strong>TRACE</strong></a>, as presented at CYTO 2025 by <a href="https://github.com/laura-hajzokova">Laura Hajzoková</a>.
-I reviewed some of the concepts related to evaluating embeddings in my contribution to a <a href="https://link.springer.com/article/10.1007/s00439-022-02439-8">review article in Human Genetics</a> about translational machine learning.
 
 <hr>
 </details>
